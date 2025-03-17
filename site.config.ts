@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '第三機關 TTO.MOE',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'lenchan139-nextjs-notion-starter-kit.vercel.app',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
